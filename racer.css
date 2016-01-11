@@ -1,6 +1,6 @@
 table td {
   border: 1px solid black;
-  width: 50px;
+  width: 30px;
   height: 30px;
 }
 
@@ -10,4 +10,16 @@ table td {
 
 .blue {
   background-color: blue;
+}
+
+.blocked {
+  background-color: grey;
+}
+
+.player {
+  background-color: yellow;
+}
+
+.goal {
+  background-color: green;
 }

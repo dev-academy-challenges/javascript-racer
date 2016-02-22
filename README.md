@@ -1,5 +1,14 @@
 # Javascript Racer
 
+## Concepts
+
+Number | Name
+-------|-------------------
+1.     | [jQuery selectors](https://api.jquery.com/category/selectors/)
+2.     | [jQuery events](https://api.jquery.com/category/events/)
+
+## Procedure
+
 Implement the race track so p and q move the player 1 and player 2 cars forward respectively.
 
 ## Next Level

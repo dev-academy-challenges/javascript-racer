@@ -3,3 +3,11 @@ table td {
   width: 50px;
   height: 30px;
 }
+
+.player1 td.active {
+  background-color: red;
+}
+
+.player2 td.active {
+  background-color: blue;
+}

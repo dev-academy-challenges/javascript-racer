@@ -1,14 +1,14 @@
 # Javascript Racer
 
+## Procedure
+
+Implement the race track so the `p` and `q` keys move the player 1 and player 2 cars forward respectively.
+
+
 ## Concepts
 
 * [jQuery selectors](https://api.jquery.com/category/selectors/)
 * [jQuery events](https://api.jquery.com/category/events/)
-
-
-## Procedure
-
-Implement the race track so p and q move the player 1 and player 2 cars forward respectively.
 
 
 ## Next Level

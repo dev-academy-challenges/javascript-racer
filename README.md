@@ -2,7 +2,7 @@
 
 ## Procedure
 
-Implement the race track so the `p` and `q` keys move the player 1 and player 2 cars forward respectively.
+Implement the race track such that `p` and `q` keys are used to move the player 1 and player 2 cars forward respectively.
 
 
 ## Concepts
